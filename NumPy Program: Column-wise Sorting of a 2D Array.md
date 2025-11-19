@@ -26,4 +26,4 @@ print(np.sort(arr,axis=0))
 
 
 ## Result
-Thus , the python program was successfully executed.
+Thus , the python program was successfully executed
